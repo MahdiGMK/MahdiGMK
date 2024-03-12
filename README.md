@@ -2,7 +2,7 @@
 
 <h1>this is Mahdi</h1>
 
-<h3 style="direction: ltr; text-align: left;">I am a second-year undergraduate Computer Engineering student at the Sharif University of Technology (the best university in Iran, according to QS ranking 2023) and a hardware engineering enthusiast.</h3>
+<h3 style="direction: ltr; text-align: left;">I am a second-year undergraduate Computer Engineering student at the Sharif University of Technology (the best university in Iran, according to QS ranking 2023) and a Hardware Engineering enthusiast.</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=MahdiGMK&label=Profile%20views&color=0e75b6&style=flat" alt="MahdiGMK" /> </p>
 
